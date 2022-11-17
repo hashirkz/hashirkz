@@ -1,4 +1,4 @@
- \<hi\> I’m [hashirkz](https://github.com/hashirkz) :purple_heart: \</hi\>  
+ ```<hi>``` I’m [hashirkz](https://github.com/hashirkz) :purple_heart: ```</hi>```
 
 
 # currently maintaining
@@ -7,6 +7,9 @@
 
 # stuff
 [monkeytype profile :rat: ](https://monkeytype.com/profile/sleepyzzzz)  
+[leetcode_profile](https://leetcode.com/zzzsleepyzz/)  
+- **contributions: 104**
+- **fav language: python3**  
 
 # contacts
 school : **hashir.khan@mail.mcgill.ca**  
