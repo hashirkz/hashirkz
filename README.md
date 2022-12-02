@@ -2,8 +2,7 @@
 
 
 # currently maintaining
-1. [pinterest_knn](https://github.com/hashirkz/pinterest_knn)  
-2. [denoland_merch](https://github.com/hashirkz/merch-darkmode)  
+1. [denoland_merch](https://github.com/hashirkz/merch-darkmode)  
 
 # stuff
 [monkeytype profile :rat: ](https://monkeytype.com/profile/sleepyzzzz)  
