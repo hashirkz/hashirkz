@@ -3,6 +3,7 @@
 
 # currently maintaining
 1. [denoland_merch](https://github.com/hashirkz/merch-darkmode)  
+2. [mangapark_zetsu_module](https://github.com/hashirkz/mangapark_module)
 
 # stuff
 [monkeytype profile :rat: ](https://monkeytype.com/profile/sleepyzzzz)  
