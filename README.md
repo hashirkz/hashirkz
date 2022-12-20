@@ -8,7 +8,7 @@
 # stuff
 [monkeytype profile :rat: ](https://monkeytype.com/profile/sleepyzzzz)  
 [leetcode_profile](https://leetcode.com/zzzsleepyzz/)  
-- **contributions: 104**
+- **contributions: 141**
 - **fav language: python3**  
 
 # contacts
