@@ -4,6 +4,7 @@
 # currently maintaining
 1. [denoland_merch](https://github.com/hashirkz/merch-darkmode)  
 2. [mangapark_module](https://github.com/hashirkz/mangapark_module)
+3. [hubble_dcgan](https://github.com/hashirkz/hubble_telescope_gan)
 
 # stuff
 [monkeytype profile :rat: ](https://monkeytype.com/profile/sleepyzzzz)  
