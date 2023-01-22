@@ -3,7 +3,7 @@
 
 # currently maintaining
 1. [denoland_merch](https://github.com/hashirkz/merch-darkmode)  
-2. [mangapark_module](https://github.com/hashirkz/mangapark_module)
+2. [neural_cellular_automata](https://github.com/hashirkz/neural_cellular_automata)
 3. [hubble_dcgan](https://github.com/hashirkz/hubble_telescope_gan)
 
 # stuff
