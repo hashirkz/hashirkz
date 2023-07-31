@@ -1,5 +1,5 @@
- :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart:  
- :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart:  
+:purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart:  
+:purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart:  
 
 # maintaining
 [doujindown](https://github.com/hashirkz/doujindown)
@@ -14,8 +14,8 @@
 school : **hashir.khan@mail.mcgill.ca**  
 personal (preferred) : **hashirxkhan1@gmail.com**  
 
-:purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart:  
-:purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart:  
+:purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart:  
+:purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart:  
 
 <!---
 hashirkz/hashirkz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
