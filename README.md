@@ -1,10 +1,8 @@
- ```<hi>``` I’m [hashirkz](https://github.com/hashirkz) :purple_heart: ```</hi>```
+ ```:purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: ```
 
 
-# currently maintaining
-1. [denoland_merch](https://github.com/hashirkz/merch-darkmode)  
-2. [neural_cellular_automata](https://github.com/hashirkz/neural_cellular_automata)
-3. [hubble_dcgan](https://github.com/hashirkz/hubble_telescope_gan)
+# maintaining
+[doujindown](https://github.com/hashirkz/doujindown)
 
 # stuff
 [monkeytype profile :rat: ](https://monkeytype.com/profile/sleepyzzzz)  
@@ -16,6 +14,7 @@
 school : **hashir.khan@mail.mcgill.ca**  
 personal (preferred) : **hashirxkhan1@gmail.com**  
 
+```:purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: ```
 
 <!---
 hashirkz/hashirkz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
