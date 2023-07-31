@@ -13,6 +13,7 @@
 school : **hashir.khan@mail.mcgill.ca**  
 personal (preferred) : **hashirxkhan1@gmail.com**  
 
+:purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart:  
 
 
 
