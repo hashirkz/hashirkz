@@ -2,6 +2,7 @@
 
 # maintaining
 [doujindown](https://github.com/hashirkz/doujindown)
+[nitter_scraper](https://github.com/hashirkz/nitter_scraper)
 
 # stuff
 [monkeytype profile :rat: ](https://monkeytype.com/profile/sleepyzzzz)  
