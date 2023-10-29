@@ -1,17 +1,18 @@
 :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart:  
 
-# maintaining
+## maintaining
 [doujindown](https://github.com/hashirkz/doujindown)  
 [nitter_scraper](https://github.com/hashirkz/nitter_scraper)  
 
-# stuff
+## stuff
 [monkeytype profile :rat: ](https://monkeytype.com/profile/sleepyzzzz)  
 [leetcode_profile](https://leetcode.com/zzzsleepyzz/)  
+[me lol](https://hashirkz.github.io/hashir_kz/)  
 - **contributions: 141**
 - **fav language: python3**  
 
-# contacts
-school : **hashir.khan@mail.mcgill.ca**  
+### contacts
+school 3rd year mcgill cs : **hashir.khan@mail.mcgill.ca**  
 personal (preferred) : **hashirxkhan1@gmail.com**  
 
 :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart:  
