@@ -3,7 +3,7 @@
 
 ## maintaining
 [partyroom](https://github.com/hashirkz/partyroom)  
-[twitter_scraper](https://github.com/hashirkz/nitter_scraper)  
+[twitter_scraper](https://github.com/hashirkz/twitter_scraper)  
 
 ## stuff
 [monkeytype profile :rat: ](https://monkeytype.com/profile/sleepyzzzz)  
