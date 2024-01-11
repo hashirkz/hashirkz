@@ -1,6 +1,6 @@
-:purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart:     
-:black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart:  
-
+✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦    
+✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧  
+  
 ## maintaining
 [partyroom](https://github.com/hashirkz/partyroom)  
 [twitter_scraper](https://github.com/hashirkz/twitter_scraper)  
@@ -15,13 +15,9 @@
 ### contacts
 school 3rd year mcgill cs : **hashir.khan@mail.mcgill.ca**  
 personal (preferred) : **hashirxkhan1@gmail.com**  
-
- 
-:black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart:  
-:purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart: :purple_heart: :black_heart:     
-
-
-
+  
+✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦    
+✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧ &nbsp; &nbsp;✦ &nbsp; &nbsp;✧  
 <!---
 hashirkz/hashirkz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
