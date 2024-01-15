@@ -6,12 +6,10 @@
 [partyroom](https://github.com/hashirkz/partyroom)  
 [twitter_scraper](https://github.com/hashirkz/twitter_scraper)  
 
-## stuff
-[monkeytype profile :rat: ](https://monkeytype.com/profile/sleepyzzzz)  
-[leetcode_profile](https://leetcode.com/zzzsleepyzz/)  
+## stuff 
 [me lol](https://hashirkz.github.io/hashir_kz/)  
 - **contributions: 141**
-- **fav language: python3**  
+- **fav languages: python3 + matlab + mysql**  
 
 ### contacts
 school 3rd year mcgill cs : **hashir.khan@mail.mcgill.ca**  
