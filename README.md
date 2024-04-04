@@ -8,7 +8,7 @@
 [twitter_scraper](https://github.com/hashirkz/twitter_scraper)
 
 ## stuff 
-[me lol](https://hashirkz.github.io/hashir_kz/)  
+[me lol](https://sleepyzzz.xyz)  
 - **contributions: 141**
 - **fav languages: python3 + matlab + mysql**  
 
