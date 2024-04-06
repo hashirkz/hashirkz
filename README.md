@@ -6,6 +6,7 @@
 [doujindown](https://github.com/hashirkz/doujindown)  
 [partyroom](https://github.com/hashirkz/partyroom)  
 [twitter_scraper](https://github.com/hashirkz/twitter_scraper)
+[dev for $magi](https://magi.ink)
 
 ## stuff 
 [me lol](https://sleepyzzz.xyz)  
