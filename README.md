@@ -10,7 +10,6 @@
 
 ## stuff 
 [me lol](https://sleepyzzz.xyz)  
-[dev for $magi](https://magi.ink)  
 - **contributions: 141**
 - **fav languages: python3 + matlab + mysql**  
 
